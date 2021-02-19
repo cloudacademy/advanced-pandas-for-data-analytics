@@ -2,11 +2,7 @@
 
 This repository provides the data in support of the course Advanced Pandas for Data Analytics, provided by Cloud Academy.
 
-## Data
-
-We have used the Bike Sharing Dataset in this course, which all are available in the data folder. I suggest to follow the following steps in order you to be able to replicate the course steps in your local host.
-
-Open your favourite terminal emulator, and then:
+I suggest to follow the following steps in order you to be able to replicate the course steps in your local host. Open your favourite terminal emulator, and then:
 
 #### 1. Clone the repo
 ```bash
@@ -25,6 +21,10 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 You are now ready to get your hands dirty: enjoy!
+
+## Data
+
+We have used the Bike Sharing Dataset in this course, which all are available in the data folder. You can find more information on the data [here](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset). 
 
 ## Dataset Characteristics
 
